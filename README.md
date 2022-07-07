@@ -6,4 +6,4 @@ Créer un fichier `.env` avec son propre MDP
 
 Modifier l'adresse e-mail pour y mettre la vôtre.
 
-Run "node insta" dans le terminal
+Run "node insta" dans le termina
